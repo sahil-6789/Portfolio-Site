@@ -24,7 +24,7 @@ import threejs from "./tech/threejs.svg";
 import academy from "./company/academy.png";
 
 import food from "./food.jpg";
-import expense from "./expense.jpg";
+import expense from "./Expense.jpg";
 import tripguide from "./tripguide.png";
 import jobshala from "./jobshala.jpg";
 import tindog from "./tindog.jpg";
